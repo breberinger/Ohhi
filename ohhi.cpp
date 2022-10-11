@@ -24,6 +24,7 @@
 
 int count_unknown_squares(const int board[MAX_SIZE][MAX_SIZE], int size) {
     // write your code here
+    
 
     // replace this return statement
     return 0;
