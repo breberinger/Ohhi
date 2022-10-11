@@ -38,7 +38,8 @@ void test_count_unknown_squares() {
     read_board_from_string(board, test_board_1, size_1);
     cout << count_unknown_squares(board, size_1) << endl;
 
-    // add more tests here
+    // test case 2
+    strin test_board_1[] = {"
 }
 
 // define more test functions here
